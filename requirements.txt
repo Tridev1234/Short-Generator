@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faster-whisper
+openai
+opencv-python-headless
+mediapipe
+moviepy
+python-multipart
+numpy
